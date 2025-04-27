@@ -37,7 +37,9 @@ fn main() {
                     "https://ipv4.usw1.lag.4n6ir.com",
                     "https://ipv4.usw2.lag.4n6ir.com",
                 ];
-                laggy::latency(websites);
+                if let Err(e) = laggy::latency4(websites) {
+                    eprintln!("Error occurred: {}", e);
+                }
             } else if args[2] == "ipv6" {
                 let websites = vec![
                     "https://ipv6.afs1.lag.4n6ir.com",
@@ -73,7 +75,9 @@ fn main() {
                     "https://ipv6.usw1.lag.4n6ir.com",
                     "https://ipv6.usw2.lag.4n6ir.com",                
                 ];
-                laggy::latency(websites);
+                if let Err(e) = laggy::latency6(websites) {
+                    eprintln!("Error occurred: {}", e);
+                }
             } else {
                 println!("Use: 'ipv4' or 'ipv6'");
             }
@@ -113,7 +117,9 @@ fn main() {
                     "https://ipv4.usw1.dev.4n6ir.com",
                     "https://ipv4.usw2.dev.4n6ir.com",
                 ];
-                laggy::latency(websites);
+                if let Err(e) = laggy::latency4(websites) {
+                    eprintln!("Error occurred: {}", e);
+                }
             } else if args[2] == "ipv6" {
                 let websites = vec![
                     "https://ipv6.afs1.dev.4n6ir.com",
@@ -149,7 +155,9 @@ fn main() {
                     "https://ipv6.usw1.dev.4n6ir.com",
                     "https://ipv6.usw2.dev.4n6ir.com",
                 ];
-                laggy::latency(websites);
+                if let Err(e) = laggy::latency6(websites) {
+                    eprintln!("Error occurred: {}", e);
+                }
             } else {
                 println!("Use: 'ipv4' or 'ipv6'");
             }
