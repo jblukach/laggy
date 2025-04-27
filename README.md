@@ -36,12 +36,6 @@ vs.
 site: https://ipv4.use1.lag.4n6ir.com, Status: 200, Latency: 119.185753ms
 ```
 
-Results if IPv6 is not supported.
-
-```
-site: https://ipv6.afs1.lag.4n6ir.com, Status: 0, Latency: 0ns
-```
-
 ### Global Infrastructure
 
 https://aws.amazon.com/about-aws/global-infrastructure/regions_az

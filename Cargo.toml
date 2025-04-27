@@ -2,7 +2,7 @@
 name = "laggy"
 description = "Laggy measures network latency and jitter between the source and AWS Cloud regions."
 license = "Apache-2.0"
-version = "2025.4.27"
+version = "2025.4.25"
 edition = "2024"
 homepage = "https://4n6ir.com"
 repository = "https://github.com/jblukach/laggy"
