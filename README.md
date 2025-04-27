@@ -33,7 +33,38 @@ vs.
 ### Output Results
 
 ```
-site: https://ipv4.use1.lag.4n6ir.com, Status: 200, Latency: 119.185753ms
+Site: https://ipv6.use1.lag.4n6ir.com, Status: 200, Latency: 67.076901ms
+Site: https://ipv6.use2.lag.4n6ir.com, Status: 200, Latency: 90.623354ms
+Site: https://ipv6.cac1.lag.4n6ir.com, Status: 200, Latency: 98.473081ms
+Site: https://ipv6.mxc1.lag.4n6ir.com, Status: 200, Latency: 184.195336ms
+Site: https://ipv6.caw1.lag.4n6ir.com, Status: 200, Latency: 207.676092ms
+Site: https://ipv6.euw1.lag.4n6ir.com, Status: 200, Latency: 240.632193ms
+Site: https://ipv6.usw1.lag.4n6ir.com, Status: 200, Latency: 242.615685ms
+Site: https://ipv6.usw2.lag.4n6ir.com, Status: 200, Latency: 251.712456ms
+Site: https://ipv6.euw2.lag.4n6ir.com, Status: 200, Latency: 290.23341ms
+Site: https://ipv6.euw3.lag.4n6ir.com, Status: 200, Latency: 297.067287ms
+Site: https://ipv6.euc1.lag.4n6ir.com, Status: 200, Latency: 326.016987ms
+Site: https://ipv6.euc2.lag.4n6ir.com, Status: 200, Latency: 332.574242ms
+Site: https://ipv6.eus1.lag.4n6ir.com, Status: 200, Latency: 368.212421ms
+Site: https://ipv6.eun1.lag.4n6ir.com, Status: 200, Latency: 377.801897ms
+Site: https://ipv6.eus2.lag.4n6ir.com, Status: 200, Latency: 377.810183ms
+Site: https://ipv6.sae1.lag.4n6ir.com, Status: 200, Latency: 389.082696ms
+Site: https://ipv6.apne1.lag.4n6ir.com, Status: 200, Latency: 478.051017ms
+Site: https://ipv6.ilc1.lag.4n6ir.com, Status: 200, Latency: 489.033075ms
+Site: https://ipv6.mes1.lag.4n6ir.com, Status: 200, Latency: 522.903812ms
+Site: https://ipv6.apne3.lag.4n6ir.com, Status: 200, Latency: 546.64706ms
+Site: https://ipv6.apne2.lag.4n6ir.com, Status: 200, Latency: 567.207354ms
+Site: https://ipv6.aps1.lag.4n6ir.com, Status: 200, Latency: 607.183247ms
+Site: https://ipv6.apse2.lag.4n6ir.com, Status: 200, Latency: 630.877946ms
+Site: https://ipv6.aps2.lag.4n6ir.com, Status: 200, Latency: 650.914864ms
+Site: https://ipv6.mec1.lag.4n6ir.com, Status: 200, Latency: 656.125567ms
+Site: https://ipv6.ape1.lag.4n6ir.com, Status: 200, Latency: 670.91294ms
+Site: https://ipv6.apse4.lag.4n6ir.com, Status: 200, Latency: 703.355405ms
+Site: https://ipv6.apse1.lag.4n6ir.com, Status: 200, Latency: 705.211195ms
+Site: https://ipv6.afs1.lag.4n6ir.com, Status: 200, Latency: 713.259556ms
+Site: https://ipv6.apse5.lag.4n6ir.com, Status: 200, Latency: 729.464198ms
+Site: https://ipv6.apse7.lag.4n6ir.com, Status: 200, Latency: 731.402744ms
+Site: https://ipv6.apse3.lag.4n6ir.com, Status: 200, Latency: 753.309031ms
 ```
 
 ### Global Infrastructure
