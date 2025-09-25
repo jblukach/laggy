@@ -33,38 +33,40 @@ vs.
 ### Output Results
 
 ```
-Site: https://ipv6.use1.lag.4n6ir.com, Status: 200, Latency: 67.076901ms
-Site: https://ipv6.use2.lag.4n6ir.com, Status: 200, Latency: 90.623354ms
-Site: https://ipv6.cac1.lag.4n6ir.com, Status: 200, Latency: 98.473081ms
-Site: https://ipv6.mxc1.lag.4n6ir.com, Status: 200, Latency: 184.195336ms
-Site: https://ipv6.caw1.lag.4n6ir.com, Status: 200, Latency: 207.676092ms
-Site: https://ipv6.euw1.lag.4n6ir.com, Status: 200, Latency: 240.632193ms
-Site: https://ipv6.usw1.lag.4n6ir.com, Status: 200, Latency: 242.615685ms
-Site: https://ipv6.usw2.lag.4n6ir.com, Status: 200, Latency: 251.712456ms
-Site: https://ipv6.euw2.lag.4n6ir.com, Status: 200, Latency: 290.23341ms
-Site: https://ipv6.euw3.lag.4n6ir.com, Status: 200, Latency: 297.067287ms
-Site: https://ipv6.euc1.lag.4n6ir.com, Status: 200, Latency: 326.016987ms
-Site: https://ipv6.euc2.lag.4n6ir.com, Status: 200, Latency: 332.574242ms
-Site: https://ipv6.eus1.lag.4n6ir.com, Status: 200, Latency: 368.212421ms
-Site: https://ipv6.eun1.lag.4n6ir.com, Status: 200, Latency: 377.801897ms
-Site: https://ipv6.eus2.lag.4n6ir.com, Status: 200, Latency: 377.810183ms
-Site: https://ipv6.sae1.lag.4n6ir.com, Status: 200, Latency: 389.082696ms
-Site: https://ipv6.apne1.lag.4n6ir.com, Status: 200, Latency: 478.051017ms
-Site: https://ipv6.ilc1.lag.4n6ir.com, Status: 200, Latency: 489.033075ms
-Site: https://ipv6.mes1.lag.4n6ir.com, Status: 200, Latency: 522.903812ms
-Site: https://ipv6.apne3.lag.4n6ir.com, Status: 200, Latency: 546.64706ms
-Site: https://ipv6.apne2.lag.4n6ir.com, Status: 200, Latency: 567.207354ms
-Site: https://ipv6.aps1.lag.4n6ir.com, Status: 200, Latency: 607.183247ms
-Site: https://ipv6.apse2.lag.4n6ir.com, Status: 200, Latency: 630.877946ms
-Site: https://ipv6.aps2.lag.4n6ir.com, Status: 200, Latency: 650.914864ms
-Site: https://ipv6.mec1.lag.4n6ir.com, Status: 200, Latency: 656.125567ms
-Site: https://ipv6.ape1.lag.4n6ir.com, Status: 200, Latency: 670.91294ms
-Site: https://ipv6.apse4.lag.4n6ir.com, Status: 200, Latency: 703.355405ms
-Site: https://ipv6.apse1.lag.4n6ir.com, Status: 200, Latency: 705.211195ms
-Site: https://ipv6.afs1.lag.4n6ir.com, Status: 200, Latency: 713.259556ms
-Site: https://ipv6.apse5.lag.4n6ir.com, Status: 200, Latency: 729.464198ms
-Site: https://ipv6.apse7.lag.4n6ir.com, Status: 200, Latency: 731.402744ms
-Site: https://ipv6.apse3.lag.4n6ir.com, Status: 200, Latency: 753.309031ms
+Site: https://ipv4.use1.dev.4n6ir.com, Status: 200, Latency: 88.26265ms
+Site: https://ipv4.cac1.dev.4n6ir.com, Status: 200, Latency: 130.584331ms
+Site: https://ipv4.use2.dev.4n6ir.com, Status: 200, Latency: 142.755469ms
+Site: https://ipv4.mxc1.dev.4n6ir.com, Status: 200, Latency: 216.400738ms
+Site: https://ipv4.usw1.dev.4n6ir.com, Status: 200, Latency: 236.302045ms
+Site: https://ipv4.euw1.dev.4n6ir.com, Status: 200, Latency: 272.43453ms
+Site: https://ipv4.usw2.dev.4n6ir.com, Status: 200, Latency: 294.593186ms
+Site: https://ipv4.euw2.dev.4n6ir.com, Status: 200, Latency: 317.576072ms
+Site: https://ipv4.caw1.dev.4n6ir.com, Status: 200, Latency: 340.499203ms
+Site: https://ipv4.euw3.dev.4n6ir.com, Status: 200, Latency: 346.94764ms
+Site: https://ipv4.euc1.dev.4n6ir.com, Status: 200, Latency: 353.347686ms
+Site: https://ipv4.eus2.dev.4n6ir.com, Status: 200, Latency: 358.283457ms
+Site: https://ipv4.euc2.dev.4n6ir.com, Status: 200, Latency: 388.141064ms
+Site: https://ipv4.eus1.dev.4n6ir.com, Status: 200, Latency: 388.884363ms
+Site: https://ipv4.eun1.dev.4n6ir.com, Status: 200, Latency: 401.193109ms
+Site: https://ipv4.sae1.dev.4n6ir.com, Status: 200, Latency: 432.202269ms
+Site: https://ipv4.ilc1.dev.4n6ir.com, Status: 200, Latency: 525.169345ms
+Site: https://ipv4.apne1.dev.4n6ir.com, Status: 200, Latency: 566.365766ms
+Site: https://ipv4.mes1.dev.4n6ir.com, Status: 200, Latency: 580.214665ms
+Site: https://ipv4.apne3.dev.4n6ir.com, Status: 200, Latency: 613.964608ms
+Site: https://ipv4.apne2.dev.4n6ir.com, Status: 200, Latency: 637.76626ms
+Site: https://ipv4.mec1.dev.4n6ir.com, Status: 200, Latency: 655.758885ms
+Site: https://ipv4.apse2.dev.4n6ir.com, Status: 200, Latency: 657.70981ms
+Site: https://ipv4.ape1.dev.4n6ir.com, Status: 200, Latency: 681.175978ms
+Site: https://ipv4.apse4.dev.4n6ir.com, Status: 200, Latency: 706.82306ms
+Site: https://ipv4.apse1.dev.4n6ir.com, Status: 200, Latency: 722.749121ms
+Site: https://ipv4.afs1.dev.4n6ir.com, Status: 200, Latency: 723.430566ms
+Site: https://ipv4.apse6.dev.4n6ir.com, Status: 200, Latency: 727.22918ms
+Site: https://ipv4.ape2.dev.4n6ir.com, Status: 200, Latency: 736.586153ms
+Site: https://ipv4.apse5.dev.4n6ir.com, Status: 200, Latency: 749.930963ms
+Site: https://ipv4.apse3.dev.4n6ir.com, Status: 200, Latency: 761.549247ms
+Site: https://ipv4.apse7.dev.4n6ir.com, Status: 200, Latency: 776.232808ms
+Site: https://ipv4.aps1.dev.4n6ir.com, Status: 200, Latency: 793.644133ms
+Site: https://ipv4.aps2.dev.4n6ir.com, Status: 200, Latency: 904.481486ms
 ```
 
 ### Global Infrastructure
@@ -77,6 +79,7 @@ https://aws.amazon.com/about-aws/global-infrastructure/regions_az
 |:---:|:---:|:---:|:---:|
 |https://ipv4.afs1.lag.4n6ir.com|af-south-1|Cape Town|Africa|
 |https://ipv4.ape1.lag.4n6ir.com|ap-east-1|Hong Kong|Asia Pacific|
+|https://ipv4.ape2.lag.4n6ir.com|ap-east-2|Taipei|Asia Pacific|
 |https://ipv4.apne1.lag.4n6ir.com|ap-northeast-1|Tokyo|Asia Pacific|
 |https://ipv4.apne2.lag.4n6ir.com|ap-northeast-2|Seoul|Asia Pacific|
 |https://ipv4.apne3.lag.4n6ir.com|ap-northeast-3|Osaka|Asia Pacific|
@@ -87,6 +90,7 @@ https://aws.amazon.com/about-aws/global-infrastructure/regions_az
 |https://ipv4.apse3.lag.4n6ir.com|ap-southeast-3|Jakarta|Asia Pacific|
 |https://ipv4.apse4.lag.4n6ir.com|ap-southeast-4|Melbourne|Asia Pacific|
 |https://ipv4.apse5.lag.4n6ir.com|ap-southeast-5|Malaysia|Asia Pacific|
+|https://ipv4.apse6.lag.4n6ir.com|ap-southeast-6|New Zealand|Asia Pacific|
 |https://ipv4.apse7.lag.4n6ir.com|ap-southeast-7|Thailand|Asia Pacific|
 |https://ipv4.cac1.lag.4n6ir.com|ca-central-1|Central|Canada|
 |https://ipv4.caw1.lag.4n6ir.com|ca-west-1|Calgary|Canada|
@@ -114,6 +118,7 @@ https://aws.amazon.com/about-aws/global-infrastructure/regions_az
 |:---:|:---:|:---:|:---:|
 |https://ipv6.afs1.lag.4n6ir.com|af-south-1|Cape Town|Africa|
 |https://ipv6.ape1.lag.4n6ir.com|ap-east-1|Hong Kong|Asia Pacific|
+|https://ipv6.ape2.lag.4n6ir.com|ap-east-2|Taipei|Asia Pacific|
 |https://ipv6.apne1.lag.4n6ir.com|ap-northeast-1|Tokyo|Asia Pacific|
 |https://ipv6.apne2.lag.4n6ir.com|ap-northeast-2|Seoul|Asia Pacific|
 |https://ipv6.apne3.lag.4n6ir.com|ap-northeast-3|Osaka|Asia Pacific|
@@ -124,6 +129,7 @@ https://aws.amazon.com/about-aws/global-infrastructure/regions_az
 |https://ipv6.apse3.lag.4n6ir.com|ap-southeast-3|Jakarta|Asia Pacific|
 |https://ipv6.apse4.lag.4n6ir.com|ap-southeast-4|Melbourne|Asia Pacific|
 |https://ipv6.apse5.lag.4n6ir.com|ap-southeast-5|Malaysia|Asia Pacific|
+|https://ipv6.apse6.lag.4n6ir.com|ap-southeast-6|New Zealand|Asia Pacific|
 |https://ipv6.apse7.lag.4n6ir.com|ap-southeast-7|Thailand|Asia Pacific|
 |https://ipv6.cac1.lag.4n6ir.com|ca-central-1|Central|Canada|
 |https://ipv6.caw1.lag.4n6ir.com|ca-west-1|Calgary|Canada|
@@ -151,6 +157,7 @@ https://aws.amazon.com/about-aws/global-infrastructure/regions_az
 |:---:|:---:|:---:|:---:|
 |https://ipv4.afs1.dev.4n6ir.com|af-south-1|Cape Town|Africa|
 |https://ipv4.ape1.dev.4n6ir.com|ap-east-1|Hong Kong|Asia Pacific|
+|https://ipv4.ape2.dev.4n6ir.com|ap-east-2|Taipei|Asia Pacific|
 |https://ipv4.apne1.dev.4n6ir.com|ap-northeast-1|Tokyo|Asia Pacific|
 |https://ipv4.apne2.dev.4n6ir.com|ap-northeast-2|Seoul|Asia Pacific|
 |https://ipv4.apne3.dev.4n6ir.com|ap-northeast-3|Osaka|Asia Pacific|
@@ -161,6 +168,7 @@ https://aws.amazon.com/about-aws/global-infrastructure/regions_az
 |https://ipv4.apse3.dev.4n6ir.com|ap-southeast-3|Jakarta|Asia Pacific|
 |https://ipv4.apse4.dev.4n6ir.com|ap-southeast-4|Melbourne|Asia Pacific|
 |https://ipv4.apse5.dev.4n6ir.com|ap-southeast-5|Malaysia|Asia Pacific|
+|https://ipv4.apse6.dev.4n6ir.com|ap-southeast-6|New Zealand|Asia Pacific|
 |https://ipv4.apse7.dev.4n6ir.com|ap-southeast-7|Thailand|Asia Pacific|
 |https://ipv4.cac1.dev.4n6ir.com|ca-central-1|Central|Canada|
 |https://ipv4.caw1.dev.4n6ir.com|ca-west-1|Calgary|Canada|
@@ -188,6 +196,7 @@ https://aws.amazon.com/about-aws/global-infrastructure/regions_az
 |:---:|:---:|:---:|:---:|
 |https://ipv6.afs1.dev.4n6ir.com|af-south-1|Cape Town|Africa|
 |https://ipv6.ape1.dev.4n6ir.com|ap-east-1|Hong Kong|Asia Pacific|
+|https://ipv6.ape2.dev.4n6ir.com|ap-east-2|Taipei|Asia Pacific|
 |https://ipv6.apne1.dev.4n6ir.com|ap-northeast-1|Tokyo|Asia Pacific|
 |https://ipv6.apne2.dev.4n6ir.com|ap-northeast-2|Seoul|Asia Pacific|
 |https://ipv6.apne3.dev.4n6ir.com|ap-northeast-3|Osaka|Asia Pacific|
@@ -198,6 +207,7 @@ https://aws.amazon.com/about-aws/global-infrastructure/regions_az
 |https://ipv6.apse3.dev.4n6ir.com|ap-southeast-3|Jakarta|Asia Pacific|
 |https://ipv6.apse4.dev.4n6ir.com|ap-southeast-4|Melbourne|Asia Pacific|
 |https://ipv6.apse5.dev.4n6ir.com|ap-southeast-5|Malaysia|Asia Pacific|
+|https://ipv6.apse6.dev.4n6ir.com|ap-southeast-6|New Zealand|Asia Pacific|
 |https://ipv6.apse7.dev.4n6ir.com|ap-southeast-7|Thailand|Asia Pacific|
 |https://ipv6.cac1.dev.4n6ir.com|ca-central-1|Central|Canada|
 |https://ipv6.caw1.dev.4n6ir.com|ca-west-1|Calgary|Canada|

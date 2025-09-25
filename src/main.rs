@@ -6,6 +6,7 @@ fn main() {
                 let websites = vec![
                     "https://ipv4.afs1.lag.4n6ir.com",
                     "https://ipv4.ape1.lag.4n6ir.com",
+                    "https://ipv4.ape2.lag.4n6ir.com",
                     "https://ipv4.apne1.lag.4n6ir.com",
                     "https://ipv4.apne2.lag.4n6ir.com",
                     "https://ipv4.apne3.lag.4n6ir.com",
@@ -16,6 +17,7 @@ fn main() {
                     "https://ipv4.apse3.lag.4n6ir.com",
                     "https://ipv4.apse4.lag.4n6ir.com",
                     "https://ipv4.apse5.lag.4n6ir.com",
+                    "https://ipv4.apse6.lag.4n6ir.com",
                     "https://ipv4.apse7.lag.4n6ir.com",
                     "https://ipv4.cac1.lag.4n6ir.com",
                     "https://ipv4.caw1.lag.4n6ir.com",
@@ -44,6 +46,7 @@ fn main() {
                 let websites = vec![
                     "https://ipv6.afs1.lag.4n6ir.com",
                     "https://ipv6.ape1.lag.4n6ir.com",
+                    "https://ipv6.ape2.lag.4n6ir.com",
                     "https://ipv6.apne1.lag.4n6ir.com",
                     "https://ipv6.apne2.lag.4n6ir.com",
                     "https://ipv6.apne3.lag.4n6ir.com",
@@ -54,6 +57,7 @@ fn main() {
                     "https://ipv6.apse3.lag.4n6ir.com",
                     "https://ipv6.apse4.lag.4n6ir.com",
                     "https://ipv6.apse5.lag.4n6ir.com",
+                    "https://ipv6.apse6.lag.4n6ir.com",
                     "https://ipv6.apse7.lag.4n6ir.com",
                     "https://ipv6.cac1.lag.4n6ir.com",
                     "https://ipv6.caw1.lag.4n6ir.com",
@@ -86,6 +90,7 @@ fn main() {
                 let websites = vec![
                     "https://ipv4.afs1.dev.4n6ir.com",
                     "https://ipv4.ape1.dev.4n6ir.com",
+                    "https://ipv4.ape2.dev.4n6ir.com",
                     "https://ipv4.apne1.dev.4n6ir.com",
                     "https://ipv4.apne2.dev.4n6ir.com",
                     "https://ipv4.apne3.dev.4n6ir.com",
@@ -96,6 +101,7 @@ fn main() {
                     "https://ipv4.apse3.dev.4n6ir.com",
                     "https://ipv4.apse4.dev.4n6ir.com",
                     "https://ipv4.apse5.dev.4n6ir.com",
+                    "https://ipv4.apse6.dev.4n6ir.com",
                     "https://ipv4.apse7.dev.4n6ir.com",
                     "https://ipv4.cac1.dev.4n6ir.com",
                     "https://ipv4.caw1.dev.4n6ir.com",
@@ -124,6 +130,7 @@ fn main() {
                 let websites = vec![
                     "https://ipv6.afs1.dev.4n6ir.com",
                     "https://ipv6.ape1.dev.4n6ir.com",
+                    "https://ipv6.ape2.dev.4n6ir.com",
                     "https://ipv6.apne1.dev.4n6ir.com",
                     "https://ipv6.apne2.dev.4n6ir.com",
                     "https://ipv6.apne3.dev.4n6ir.com",
@@ -134,6 +141,7 @@ fn main() {
                     "https://ipv6.apse3.dev.4n6ir.com",
                     "https://ipv6.apse4.dev.4n6ir.com",
                     "https://ipv6.apse5.dev.4n6ir.com",
+                    "https://ipv6.apse6.dev.4n6ir.com",
                     "https://ipv6.apse7.dev.4n6ir.com",
                     "https://ipv6.cac1.dev.4n6ir.com",
                     "https://ipv6.caw1.dev.4n6ir.com",
