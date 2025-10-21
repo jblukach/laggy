@@ -54,7 +54,7 @@ pub fn latency4(websites: Vec<&str>) -> Result<(), reqwest::Error> {
         let max_latency = latencies.iter().max().unwrap();
         let avg_latency = latencies.iter().sum::<std::time::Duration>() / (latencies.len() as u32);
         println!(
-            "{{\"site\": \"{}\", \"min\": {:?}, \"max\": {:?}, \"avg\": {:?}}}",
+            "{{\"site\": \"{}\", \"min\": \"{:?}\", \"max\": \"{:?}\", \"avg\": \"{:?}\"}}",
             website, min_latency, max_latency, avg_latency
         );
     }
@@ -118,7 +118,7 @@ pub fn latency6(websites: Vec<&str>) -> Result<(), reqwest::Error> {
         let max_latency = latencies.iter().max().unwrap();
         let avg_latency = latencies.iter().sum::<std::time::Duration>() / (latencies.len() as u32);
         println!(
-            "{{\"site\": \"{}\", \"min\": {:?}, \"max\": {:?}, \"avg\": {:?}}}",
+            "{{\"site\": \"{}\", \"min\": \"{:?}\", \"max\": \"{:?}\", \"avg\": \"{:?}\"}}",
             website, min_latency, max_latency, avg_latency
         );
     }
