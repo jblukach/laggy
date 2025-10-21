@@ -1,8 +1,14 @@
-# laggy
+# Laggy
 
+**Laggy** is a network‑performance measurement tool designed to assess latency and jitter between a specified source location and AWS cloud regions. It supports both IPv4 and IPv6 communications, and uses AWS regional API Gateways to emulate realistic end‑to‑end connectivity scenarios.
 
+### Key Highlights
+- Measures round‑trip network latency (“min”, “max”, “avg”) for each target site/region.
+- Captures jitter implicitly via the variance between min and max values.
+- Produces structured output (JSON) which includes the “whoami” metadata (client IP, geolocation, ASN) plus per‑site latency statistics.
+- Covers multiple AWS regions (e.g., “use1”, “cac1”, “usw2”, etc.) with distinct latency profiles based on geography.
 
-### Sample Output
+## Sample Output
 
 ```json
 "whoami": {
@@ -42,6 +48,11 @@
     "geolite2-asn.mmdb": "Tue, 21 Oct 2025 08:30:17 GMT",
     "geolite2-city.mmdb": "Fri, 17 Oct 2025 15:30:49 GMT"
 }
+```
+
+Example per‑site latency statistics:
+
+```json
 {"site": "https://ipv4.use1.lag.4n6ir.com", "min": "49.474989ms", "max": "65.239886ms", "avg": "53.155841ms"}
 {"site": "https://ipv4.cac1.lag.4n6ir.com", "min": "86.190945ms", "max": "97.900145ms", "avg": "91.066022ms"}
 {"site": "https://ipv4.use2.lag.4n6ir.com", "min": "87.780783ms", "max": "105.434917ms", "avg": "94.822079ms"}
@@ -77,3 +88,12 @@
 {"site": "https://ipv4.aps2.lag.4n6ir.com", "min": "746.904826ms", "max": "759.133876ms", "avg": "752.015994ms"}
 {"site": "https://ipv4.apse7.lag.4n6ir.com", "min": "760.031276ms", "max": "835.024842ms", "avg": "784.809453ms"}
 ```
+
+## Value Proposition
+- Enables developers, network engineers or SREs to benchmark connectivity from their source to AWS regions for performance‑sensitive workloads.
+- Compares latency across regions (and between IPv4 vs IPv6) and detects jitter (via min‑to‑max variation).
+- Provides structured, machine‑readable output for dashboards or automation pipelines.
+- Offers transparent insights by including source IP and region‑specific latency data.
+
+## Summary
+Laggy provides a lightweight yet insightful tool to assess how “far” your network really is — in terms of latency and jitter — to various AWS regions, using real HTTP/HTTPS endpoints via API Gateway. It’s ideal for optimizing region selection, disaster recovery planning, or performance tuning.
