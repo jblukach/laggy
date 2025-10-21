@@ -1,8 +1,8 @@
 [package]
 name = "laggy"
-description = "Laggy measures network latency and jitter between the source and AWS Cloud regions."
+description = "Laggy measures real-world network latency and jitter from the source location to AWS regions using API Gateway endpoints over IPv4 and IPv6."
 license = "Apache-2.0"
-version = "2025.10.21"
+version = "2025.10.22"
 edition = "2024"
 homepage = "https://4n6ir.com"
 repository = "https://github.com/jblukach/laggy"
