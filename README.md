@@ -1,4 +1,4 @@
-# Laggy
+# laggy
 
 **Laggy** is a network‑performance measurement tool designed to assess latency and jitter between a specified source location and AWS cloud regions. It supports both IPv4 and IPv6 communications, and uses AWS regional API Gateways to emulate realistic end‑to‑end connectivity scenarios.
 
